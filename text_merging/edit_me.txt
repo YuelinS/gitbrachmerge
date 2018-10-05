@@ -4,4 +4,10 @@ Good evening!
 
 Good night!
 
-Let us test a merge llll
+<<<<<<< HEAD
+
+=======
+Let us test a merge
+
+Data analysis is fun!
+>>>>>>> cf8fffe95aa9284398b3716e7f674dcd6c0a4dca
