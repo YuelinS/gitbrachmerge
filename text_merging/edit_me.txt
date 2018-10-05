@@ -10,4 +10,11 @@ Good night!
 Let us test a merge
 
 Data analysis is fun!
+<<<<<<< HEAD
 >>>>>>> cf8fffe95aa9284398b3716e7f674dcd6c0a4dca
+=======
+
+More issues!
+
+Get an error!
+>>>>>>> a569ae774d5f7c7d54d01c0827921977a592b984
